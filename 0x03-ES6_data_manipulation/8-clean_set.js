@@ -1,5 +1,5 @@
 /* eslint-disable array-callback-return */
-export default function cleanSet (set, string) {
+export default function cleanSet(set, string) {
   if (string === undefined || string.length === 0) {
     return '';
   }
